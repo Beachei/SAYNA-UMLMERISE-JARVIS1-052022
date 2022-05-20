@@ -1,0 +1,2 @@
+dans le fichier diagram 1 sera mise en avant les relation entre admin , les sous admin et les utilisateur normale.
+dans le fichier diagram 2 sera mise en avant les plan de fonctionemment des objet connécté.
